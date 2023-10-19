@@ -1,3 +1,3 @@
 # SimpleDocker
 
-![nginx](./images/1.png)
+![nginx](./images/1.jpg)
